@@ -35,7 +35,7 @@ function onContextMenu(e) {
 <template>
   <h1>{{ msg }}</h1>
   <div class="box1" style="flex: 1" @contextmenu="onContextMenu($event)">
-    Right click to show contextmenu with custom content !
+    Right22 click to show2 contextmenu with custom content !
   </div>
 
   <div class="card">
